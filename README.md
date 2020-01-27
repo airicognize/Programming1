@@ -2,4 +2,4 @@
 
 * It's me
 
-https://krunker.io/?game=NY:3h8g5
+https://krunker.io/?game=NY:23cw8
