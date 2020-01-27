@@ -11,7 +11,7 @@ public class Circle
 
 	 area = PI * radius * radius;
 
-	 System.out.println( "Calculating the radius of a 	circle which is 3.5.\n" + area);	
+	 System.out.println( "Calculating the radius of a circle which is 3.5.\n" + area);	
    }
 
 }
