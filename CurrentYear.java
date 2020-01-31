@@ -4,7 +4,7 @@ public class CurrentYear{
 
 		int yearOfBirth, MyAgeIs, currentYear;
 
-        MyAgeIs = 18;
+                MyAgeIs = 18;
 		
 		yearOfBirth = 2001;
 
