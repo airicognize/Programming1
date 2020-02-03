@@ -1,4 +1,4 @@
-//integer
+//First time using a loop
 
 public class Integer{
 
