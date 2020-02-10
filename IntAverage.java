@@ -1,11 +1,9 @@
-public class IntAverage{
+public class IntAverage
+{
 
-	public static void main(String[] args){
-
-	
-
+	public static void main(String[] args)
+    {
 	 double averagenumber, divided;
-
 	 averagenumber = 1 + 7 + 9 + 34;
 	 divided = averagenumber/4;
 
