@@ -1,4 +1,8 @@
-### Hello world
+# Programming1
 
-* This repositery is used to keep all my codes that I've been doing in my programming class.
+This repository is used to keep all the coding I've dne in my programming class.
+
+## Winter 2020
+
+I will only keep codes that I've written for my Winter 2020 semester.
 
